@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06878f51-5603-4624-8742-b486af95fe21" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Converter.Common/Serialize/SerializeHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter.Test/SerializeTest.cs" afterDir="false" />
+    <list default="true" id="06878f51-5603-4624-8742-b486af95fe21" name="更改" comment="SerializeHelper">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Converter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Converter/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +81,17 @@
       <option name="presentableId" value="Default" />
       <updated>1716863212222</updated>
       <workItem from="1716863214099" duration="7000" />
-      <workItem from="1716863283721" duration="1564000" />
+      <workItem from="1716863283721" duration="2602000" />
     </task>
+    <task id="LOCAL-00001" summary="SerializeHelper">
+      <option name="closed" value="true" />
+      <created>1716865077578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716865077578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,8 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="SerializeHelper" />
+    <option name="LAST_COMMIT_MESSAGE" value="SerializeHelper" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
